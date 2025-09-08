@@ -49,3 +49,12 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summerflake&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+### 🚀 &nbsp;Live Deployments
+
+| Project | URL | Tech Stack |
+| ------ | --- | ---------- |
+| 🌐 **Official International Student Leader Summit 2025 Website** | [student-leader-summit.vercel.app](https://student-leader-summit.vercel.app/) | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) |
+| 📝 **Official International Asian Youth Chinese Forum 2025 Website** | [hci-aycf.sg](https://hci-aycf.sg/) | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare) |
+| ☕️ **Official Lianhe Zaobao Student Correspondents' Club Website** | [txy.vercel.app](https://txy.vercel.app/) | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) |
+| 📊 **YSIC Investment Competition Web Tool – Top 10 Global Finalist** | [pludash.vercel.app](https://pludash.vercel.app/) | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) |
