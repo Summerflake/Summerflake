@@ -50,6 +50,12 @@
   </a>
 </p>
 
+### ⌨️ &nbsp;Live Deployments
+| Year | CTF Name           | Ranking          | Leaderboard                  | Notes                              |
+|------|------------------|----------------|-----------------------------------|-----------------------------------|
+| 2025 | EnigmaXplore 3.0 CTF | 78th / 407 teams | Pending |- |
+
+
 ### 🚀 &nbsp;Live Deployments
 
 | Project | URL | Tech Stack |
