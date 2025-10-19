@@ -50,10 +50,12 @@
   </a>
 </p>
 
-### ⌨️ &nbsp;Live Deployments
+### ⌨️ &nbsp;CTF Journey
+☃️ **Team Winterflake** ❄️
 | Year | CTF Name           | Ranking          | Leaderboard                  | Notes                              |
 |------|------------------|----------------|-----------------------------------|-----------------------------------|
 | 2025 | EnigmaXplore 3.0 CTF | 78th / 407 teams | Pending |- |
+| 2025 | QnQSec CTF | 178th / 738 teams | Pending |- |
 
 
 ### 🚀 &nbsp;Live Deployments
