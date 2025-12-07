@@ -52,10 +52,11 @@
 
 ### ⌨️ &nbsp;CTF Journey
 ☃️ **Team Winterflake** ❄️
-| Year | CTF Name           | Ranking          | Leaderboard                  | Notes                              |
-|------|------------------|----------------|-----------------------------------|-----------------------------------|
-| 2025 | EnigmaXplore 3.0 CTF | 78th / 407 teams | Pending |- |
-| 2025 | QnQSec CTF | 178th / 738 teams | Pending |- |
+| Year | CTF Name                    | Ranking           | Percentile rank    | 
+|------|-----------------------------|-------------------|--------------------|
+| 2025 | Blahaj CTF Qualifiers       | 40th  / 448 teams |  8.9%              |
+| 2025 | EnigmaXplore 3.0 CTF        | 78th  / 407 teams | 19.1%              |
+| 2025 | QnQSec CTF                  | 178th / 738 teams | 24.1%              |
 
 
 ### 🚀 &nbsp;Live Deployments
