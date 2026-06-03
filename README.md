@@ -52,13 +52,14 @@
 
 ### ⌨️ &nbsp;CTF Journey
 ☃️ **Team Winterflake** ❄️
-| Year | CTF Name                    | Ranking           | Percentile rank    | 
-|------|-----------------------------|-------------------|--------------------|
-| 2025 | Blahaj CTF Qualifiers       | 40th  / 448 teams |  8.9%              |
-| 2025 | Blahaj CTF Finals           | 16th  /  55 teams | 29.0%              |
-| 2025 | EnigmaXplore 3.0 CTF        | 78th  / 407 teams | 19.1%              |
-| 2025 | QnQSec CTF                  | 178th / 738 teams | 24.1%              |
-| 2025 | SecurITy Challenge VianuCTF | 32nd  / 430 teams |  7.4%              |
+| Year | CTF Name                            | Ranking           | Percentile rank    | 
+|------|-------------------------------------|-------------------|--------------------|
+| 2026 | Grey Cat The Flag Qualifiers (Local)| 35th  / 167 teams | 21.0%              |
+| 2025 | Blahaj CTF Qualifiers               | 40th  / 448 teams |  8.9%              |
+| 2025 | Blahaj CTF Finals                   | 16th  /  55 teams | 29.0%              |
+| 2025 | EnigmaXplore 3.0 CTF                | 78th  / 407 teams | 19.1%              |
+| 2025 | QnQSec CTF                          | 178th / 738 teams | 24.1%              |
+| 2025 | SecurITy Challenge VianuCTF         | 32nd  / 430 teams |  7.4%              |
 
 ### 🚀 &nbsp;Live Deployments
 
